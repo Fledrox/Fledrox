@@ -1,4 +1,4 @@
-Hi, I’m @Fledrox.
+Hi, I’m Fledrox.
 
 I like architecture, 3D modelling, art and programming.
 
