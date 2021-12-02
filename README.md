@@ -8,4 +8,4 @@ yes i know my bio's cringe whatever
 More about me: https://fledrox.github.io  
 Contact me @ https://discord.gg/8tQ6cPd (I ignore friend requests from strangers)  
 
-i may or may not have multiple personalities and/or signs of autism :suspect:
+i may or may not have signs of autism :suspect:
