@@ -2,10 +2,10 @@
 
 Hi, I'm fled! I do digital drawing, 3D modelling and game art. I make games in Godot and do web dev for fun too.
 
-Lang skills I guess are GDScript, CSS, JS. I wanna learn Kotlin one day because it is epic and based.
+My "programming languages" "skills" are GDScript, CSS, JS
 
-I use KDE Plasma on Linux because Gnome is as customizable as a plastic toy computer.
+I run a PC with Kubuntu, and I love Plasma's customizability. Definitely better for me than its dumbed down brother Gnome.
 
-I like videogames and my faves are Trackmania, Minecraft, Terraria and Zelda Breath of the Wild.
+I like videogames and my faves are Trackmania, Minecraft, Terraria and Zelda: Breath of the Wild.
 
-now go to my site
+done reading? now go read some more on my site
