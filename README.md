@@ -1,11 +1,13 @@
-# Hiya I'm Fled 
+### hiya I'm fled
 
-I can draw, do 3D assets, make games in Godot and do web dev for fun too. I use Arch btw :3
+🖌️ I can draw, do 3D assets, make games in Godot and do web dev for fun too.
 
-This Github was for my unused Discord bot and hosts my personal website.
+🗼 I use Arch btw (w/ KDE plasma)
 
-My "programming languages" "skills" are: GDScript(Godot), Lua(Roblox), CSS, JS.
+🤖 this Github was for my unused Discord bot. currently hosts my personal website
 
-Please check out my site! It has a more general bio of me on there.
+💻 i can do GDScript (Godot), Lua (Roblox), CSS, JS (beginner level lol)
 
-## https://fledrox.github.io
+🎀 my site (work in progress):
+
+**https://fledrox.github.io**
