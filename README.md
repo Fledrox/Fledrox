@@ -6,7 +6,7 @@
 
 🤖 this Github was for my unused Discord bot. currently hosts my personal website
 
-💻 i can do GDScript (Godot), Lua (Roblox), CSS, JS (beginner level lol)
+💻 i know a bit of GDScript (Godot), Lua (Roblox), CSS, Python, JS
 
 🎀 my site (work in progress):
 
